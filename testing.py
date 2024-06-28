@@ -13,7 +13,7 @@ from sklearn.metrics import log_loss
 import pdb
 import random as rn
 # from models.dcsn3d import DCSNMain as DCSN
-from models.dcsn2d_light import DCSN
+from models.SwinFusion import SwinIR_DCSN
 
 from utils import *
 import torch.nn as nn
