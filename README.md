@@ -10,7 +10,7 @@ Department of Electrial Engineering, National Taiwan Normal University
 
 ## Overview
 
-<img src=".\figures\hyfusion.png" width="800"/>
+<img src=".\figures\hyfusion.png" width="1000"/>
 
 coming soon...
 
